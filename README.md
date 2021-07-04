@@ -1,0 +1,1 @@
+This repository created for new updated tests with conftest.py. Also, it will be checked by other members of Stepik auto-tests course.
